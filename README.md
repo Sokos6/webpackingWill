@@ -1,2 +1,2 @@
-# webpack_IsaacLeeMorris
-Isaac Lee Morris creating a webpack workshop
+# Will Sokolowski
+Working with Webpack
